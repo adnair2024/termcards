@@ -1,0 +1,57 @@
+[
+  {
+    "question": "What does a workbook contain in Excel?",
+    "choices": ["Only one worksheet", "Multiple worksheets", "Charts only", "Formulas only"],
+    "answer": "Multiple worksheets",
+    "hint": "Think of it like a book with many pages."
+  },
+  {
+    "question": "What is a worksheet?",
+    "choices": ["A single spreadsheet page in a workbook", "An entire Excel file", "A chart object", "A formula result"],
+    "answer": "A single spreadsheet page in a workbook",
+    "hint": "Each tab at the bottom is one."
+  },
+  {
+    "question": "What is a cell in Excel?",
+    "choices": ["Intersection of a row and column", "A single row", "A single column", "A formula"],
+    "answer": "Intersection of a row and column",
+    "hint": "It's where row meets column."
+  },
+  {
+    "question": "What identifies a cell?",
+    "choices": ["Cell address like A1", "Its value", "Its color", "Its row only"],
+    "answer": "Cell address like A1",
+    "hint": "Column letter + row number."
+  },
+  {
+    "question": "What is a cell range?",
+    "choices": ["A group of two or more cells", "A single highlighted cell", "A formula", "A data type"],
+    "answer": "A group of two or more cells",
+    "hint": "Example: A1:C3"
+  },
+  {
+    "question": "Where do you see the contents of the active cell?",
+    "choices": ["Formula Bar", "Status Bar", "Ribbon", "Sheet Tab"],
+    "answer": "Formula Bar",
+    "hint": "Located near the top of Excel."
+  },
+  {
+    "question": "What does the status bar display?",
+    "choices": ["Worksheet statistics", "The formula bar contents", "The workbook name", "The sheet tabs"],
+    "answer": "Worksheet statistics",
+    "hint": "For example, Average, Sum, Count."
+  },
+  {
+    "question": "What is a formula in Excel?",
+    "choices": ["An equation that performs calculations", "A number format", "A chart type", "A macro"],
+    "answer": "An equation that performs calculations",
+    "hint": "Always starts with ="
+  },
+  {
+    "question": "What is the difference between data and information?",
+    "choices": ["Data is raw, information is processed", "They mean the same", "Information is numbers only", "Data is text only"],
+    "answer": "Data is raw, information is processed",
+    "hint": "Information = refined data."
+  }
+]
+
