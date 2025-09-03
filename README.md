@@ -1,2 +1,18 @@
-# termcards
-Terminal-based flashcard tool in Python. Study with shuffled cards, track mastered vs. remaining, and view session summaries with time spent. Progress saves automatically in progress.json for continuous learning.
+# Flashcards TUI
+
+A terminal-based flashcard study tool written in Python using `curses`.  
+Review cards, track your progress, and build strong study habits — all from your terminal.
+
+## Features
+- Load custom flashcards from a JSON file
+- Shuffle mode for randomized practice
+- Track mastered vs. remaining cards
+- Session summary with time spent (minutes & seconds)
+- Mastered cards shown in green, remaining in red
+- Progress automatically saved in `progress.json`
+
+## Usage
+```bash
+python3 flashcards.py
+```
+
